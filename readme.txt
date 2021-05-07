@@ -19,8 +19,8 @@ now paste the "CollegeBag" folder here inside htdocs
 
 4)Now open your browser and search  "localhost/collegebag"  
 
-id for admin panel is: iiitbhopal@gmail.com
-password: qwertyuiop
+id for admin panel is: ashish.kaushal@gmail.com
+password: 12345678
 
 id for user panel is: ashish@gmail.com or amandeep@gmail.com or utkarsh@gmail.com or archit@gmail.com
 password: 12345678
